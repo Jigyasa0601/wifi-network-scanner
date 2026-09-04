@@ -1,4 +1,4 @@
-<div align="center"> [![typing svg](https://readme-typing-svg.demolab.com?font=fira+code&size=24&pause=1000&color=00ff88&center=true&vcenter=true&width=700&lines=welcome+to+wifi+network+scanner!;built+with+python+%26+scapy;let's+find+who+is+on+your+wifi!)](https://git.io/typing-svg) </div>
+<div align="center"> [![typing svg](https://readme-typing-svg.demolab.comfont=fira+code&size=24&pause=1000&color=00ff88&center=true&vcenter=true&width=700&lines=welcome+to+wifi+network+scanner!;built+with+python+%26+scapy;let's+find+who+is+on+your+wifi!)](https://git.io/typing-svg) </div>
 
 # wifi-network-scanner
 
