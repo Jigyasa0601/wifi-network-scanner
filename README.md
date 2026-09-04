@@ -27,13 +27,16 @@ ARP(Address Resolution Protocol) is a fundamental networking protocol used to ma
 
 In networking, Ether refers to Ethernet, the standard link-layer technology used to connect devices in a physically wired local area network (LAN). When working with cybersecurity and Python, the term "ether module" usually refers to how Python libraries—specifically Scapy—handle the Ethernet Frame header (Layer 2 of the OSI model).An Ethernet frame wraps around network data (like an IP packet) so it can travel across physical wires, switches, and network interface cards using physical MAC addresses.<br>
 
-**4. srp() Fumction**<br>
+**4. srp() Function**<br>
+
 `srp` stands for Send and Receive Packets at Layer 2. This function does the main work - it sends our crafted packets and listens for replies from connected devices.<br>
 
 **5. IP Range / CIDR - `192.168.1.1/24`**<br>
+
 `/24` is CIDR notation. It tells the scanner to check 254 IP addresses (from 192.168.1.1 to 192.168.1.254). You can change it according to your network. <br>
 
 **6. Npcap**<br>
+
 Npcap is a specialized kernel-level packet capture and injection architecture developed by the Nmap Project for the Microsoft Windows operating system. If you are using tools like Scapy (via Python), Wireshark, or Nmap on a Windows computer, NPCAP is the engine under the hood. It bridges the gap between Windows and raw hardware interfaces.<br>
 
 ## Installation & Usage 
