@@ -1,5 +1,3 @@
-<div align="center"> [![typing svg](https://readme-typing-svg.demolab.comfont=fira+code&size=24&pause=1000&color=00ff88&center=true&vcenter=true&width=700&lines=welcome+to+wifi+network+scanner!;built+with+python+%26+scapy;let's+find+who+is+on+your+wifi!)](https://git.io/typing-svg) </div>
-
 # wifi-network-scanner
 
 A network reconnaissance tool built with python & scapy that performs ARP broadcast to map all active hosts on a lan. Useful for network admins to monitor unauthorized devices.
