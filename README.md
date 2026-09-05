@@ -11,9 +11,9 @@ A network reconnaissance tool built with python & scapy that performs ARP broadc
 
 ## Prerequisites for Windows
 **Step 1: Install Npcap**
-1. Download Npcap 1.82 installer from [Npcap download](https://nmap.org/npcap)<br>
+1. Download Npcap 1.88 installer from [Npcap download](https://nmap.org/npcap)<br>
 **Note:** Install Npcap in WinPcap API-compatible Mode
-![`Install npcap 1.82` as shown in image](image/npcap%20download.png)
+![`Install npcap 1.88` as shown in image](image/npcap%20download.png)
    
 ## About Tools, protocol, modules used in building this project
 
