@@ -8,6 +8,11 @@ A network reconnaissance tool built with python & scapy that performs ARP broadc
 2. It sends an **ARP REQUEST** to every possible IP in that range.
 3. All active devices connected to the wi-fi replies with their MAC address.
 4. We combine the IP and MAC address and display it in a table to show all the connected devices.
+
+## Prerequisites for Windows
+**Step 1: Install Npcap**
+1. Download Npcap 1.82 installer from [Npcap download](https://nmap.org/npcap)
+** NOTE: ** Install Npcap in WinPcap API-compatible Mode
    
 ## About Tools, protocol, modules used in building this project
 
